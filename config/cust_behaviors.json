@@ -1,0 +1,18 @@
+[
+	{
+		"code": "&out OUT_USB",
+		"name": "&out OUT_USB",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&out OUT_BLE",
+		"name": "&out OUT_BLE",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
